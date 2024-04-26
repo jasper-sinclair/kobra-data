@@ -8,6 +8,6 @@ Plain text NNUE evaluation and training data used in kobra 1.1
 - approx. 96 pos/game
 - 399,067,950	fen positions in total
 
-- to obtain fen positions and evaluation data from pgn files & convert them to plain text:
-- nnue-extract.exe...see deeds tools https://outskirts.altervista.org/forum/viewtopic.php?t=2009
+- fen positions and evaluation data were obtained from pgn files using nnue-extract.exe
+- see deeds tools https://outskirts.altervista.org/forum/viewtopic.php?t=2009
  
